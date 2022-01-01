@@ -1,6 +1,6 @@
 ### Olá me chamo Lucas 👋
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently working on Javascript, Html, CSS
 - 🌱 I’m currently learning Python
 
 <div align="center">
